@@ -14,5 +14,5 @@ This is my first python project as a beginner. This script uses pytube to conver
 
 ## Install and Details 
 The script along with its dependencies can be installed through the executable file converter_installer.exe; it can be run without a python interpreter. 
-*The main script executable was constructed with the pyinstaller module
-*This main script, 3 pngs, and the ico file was compiled using NSIS 
+* The main script executable was constructed with the pyinstaller module
+* This main script, 3 pngs, and the ico file was compiled using NSIS 
