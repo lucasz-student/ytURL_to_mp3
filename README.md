@@ -17,4 +17,5 @@ The script along with its dependencies can be installed through the executable f
 <img src="readme_pngs/plist_downloaded.PNG" width=200 height=100>
 <img src="readme_pngs/downloaded_file.png" width=600 height=300>
 
-
+### Contact
+l.hsieh.student@gmail.com 
