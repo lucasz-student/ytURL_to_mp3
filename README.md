@@ -17,5 +17,10 @@ The script along with its dependencies can be installed through the executable f
 <img src="readme_pngs/plist_downloaded.PNG" width=200 height=100>
 <img src="readme_pngs/downloaded_file.png" width=600 height=300>
 
+#### Other 
+Regex for validating URL from 
+* https://stackoverflow.com/questions/19377262/regex-for-youtube-url
+* https://stackoverflow.com/questions/5288941/validating-youtube-playlist-url-using-regex
+
 ### Contact
 l.hsieh.student@gmail.com 
