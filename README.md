@@ -22,5 +22,7 @@ Regex for validating URL from
 * https://stackoverflow.com/questions/19377262/regex-for-youtube-url
 * https://stackoverflow.com/questions/5288941/validating-youtube-playlist-url-using-regex
 
-### Contact
-l.hsieh.student@gmail.com 
+### Contact and Closure
+I want to understand everything about coding, the internet, and computer science I can learn while having fun.  
+My plan is to become an internet wizard and take over the world.  
+Contact me at l.hsieh.student@gmail.com 
